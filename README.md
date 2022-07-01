@@ -7,3 +7,7 @@ ls
 cd ZINKO-CRACK
 
 python2 ZINKO-CRACK
+
+
+Tool Username - ZINKO
+Tool Password - ZINKO
