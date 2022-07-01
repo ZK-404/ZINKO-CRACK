@@ -6,4 +6,4 @@ ls
 
 cd ZINKO-CRACK
 
-python2 boss404
+python2 ZINKO-CRACK
